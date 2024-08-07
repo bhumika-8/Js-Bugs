@@ -609,11 +609,11 @@ a:hover{
       animation-range-end:entry+40vh;
       transition: 0.5s;
     }
-  /*  @keyframes size_change{
+  @keyframes size_change{
         from{
             scale:0.8;
         }
-    }*/
+    }
 .idk:hover{
     border:none;
     background: transparent;
